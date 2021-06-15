@@ -10,7 +10,5 @@ General
 Específicos
 
 * Estudiar los diferentes tipos de resistencias que se presentan en la conductancia de electrones. 
-
 * Utilizar correctamente e interpretar la Ley de Ohm en el análisis de circuitos y ver el comportamiento de su funcionamiento.
-
 * Interpretar la relación entre voltaje y corriente en un circuito con elementos pasivos, las convenciones de referencia, potencia, enegría y eficiencia.
