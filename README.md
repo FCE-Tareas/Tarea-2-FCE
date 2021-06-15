@@ -357,9 +357,11 @@ c.	10 mA, 4 x 10^4Ω
 d.	12 A, 3 x 10^-2Ω
 
 0.36 V
+
 5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
 
 96 Ω
+
 7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA? 
 
 28 V
