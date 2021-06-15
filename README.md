@@ -27,6 +27,11 @@ CAPÍTULO IV
 
 ![image](https://user-images.githubusercontent.com/85209614/122008977-3ba2d580-cd7f-11eb-9f19-abf4ce70a112.png)
 
+![image](https://user-images.githubusercontent.com/84390686/122011019-4d857800-cd81-11eb-85f8-09b4c119bcfa.png)
+
+![image](https://user-images.githubusercontent.com/84390686/122011151-6d1ca080-cd81-11eb-9858-8b510cb9e632.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPITULO III
@@ -436,7 +441,231 @@ d.	7 A (←)
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
-37.9 A
+39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
+1 hp = 746 watts
+3.56 hp * (746 watts / 1 hp) = 2655,76 Watts.
+41. Un resistor de 0.27 kΩ es especificado en 2 W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación.
+
+- Utilizaremos la formula P = V^2/R
+
+- Despejaremos el voltaje 
+
+0,27 kΩ = 270Ω
+
+ V = \sqrt{P*R} 
+
+ V = \sqrt{2*270}
+
+ V = 23,23v
+
+43. Un resistor de 25Ω se conecta a un suministro de energía cuyo voltaje es de 100 V ± 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
+
+- Utilizaremos la formula P = V^2/R
+
+100 V - 5% = 95V
+
+ P = 95^2/25
+
+ P = 361 W
+
+100 V + 5% = 105V
+
+ P = 105^2/25
+
+ P = 441 W
+
+El posible intervalo de potencia disipada por el resistor es de 361W a 441W.
+
+45. Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección. 
+
+- Utilizaremos la formula P = V*I
+
+a) I=4A | V=12v
+
+    P = 12*4
+  
+ P = 48 Watts Tiene dirección hacia dentro de la carga
+
+b) I=2A | V=15v
+
+    P = 15*2
+   
+  P = 30 Watts Tiene dirección hacia fuera de la carga
+
+c) I= 16A | V=8v
+
+    P = 8*16
+
+   P = 128 Watts Tiene dirección hacia fuera de la carga
+
+d) I= 8A | V=30v
+
+    P = 30*8
+
+   P = 240 Watts Tiene dirección hacia dentro de la carga
+
+47. Una lampara de seguridad nocturna de 40 W se enciende por 9 horas
+a. Determine la energía usada en Joules.
+
+-Transformar Horas a segundos
+
+ 9H*60min*60seg=32400s
+
+-Usar la fórmula de la energía 
+
+ W=Pt => W=40*32400 =>W=1294000 J
+
+b. Determine la energía usada en watts-hora.
+
+-Usar la fórmula de la energía 
+
+W=Pt => W=40*9 =>W=360 Wh
+
+c. A $0.08/kWh, ¿cuánto cuesta encender esta lampara por 9 horas?
+
+360 Wh = 0,36 kWh
+
+W= 0,36 kWh
+
+Costo= (0,36 kWh) * ($0.08/kWh) = $0.0288
+
+49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
+
+a. Un tostador de 900 W por 5 minutos.
+
+5 min = 0,083h
+
+W=Pt => W=900*0.083 =>W=74.7 Wh = 0.0747kWh
+
+Costo= (0.0747kWh) * ($0.11/kWh) = $0.008217
+
+b. Un calentador de 120 V y 8 A por 1.7 horas.
+
+P=120*8=960Watts
+
+W=Pt => W=960*1.7 =>W=1632 Wh = 1.632 kWh
+
+Costo= (1.632 kWh) * ($0.11/kWh) = $0.17952
+
+c. Un lavaplatos de 1 100 W por 36 minutos.
+
+36 min = 0.6h
+
+W=Pt => W=1100*0.6 =>W=660 Wh = 0.66 kWh
+
+Costo= (0.66 kWh) * ($0.11/kWh) = $0.0726
+
+d. Un cautín de 120 V y 288 Ω por 24 minutos.
+
+P=120^2/288=50watts
+
+24min=0.4
+
+W=Pt => W=50*0.4 =>W=20 Wh = 0.02 kWh
+
+Costo= (0.02 kWh) * ($0.11/kWh) = $0.0022
+
+Costo Total=$0.008217+$0.17952+$0.0726+$0.0022 = $0.26
+
+51.- Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen:
+
+a. un calentador de 4 kW, de forma continua,
+
+4 kW = 4000W
+
+W=Pt => W=4000*24 =>W=96000 Wh = 96kWh
+
+Costo= (96 kWh) * ($0.10/kWh) = $9.6
+
+b. un calentador de 3.6 kW 12 horas al dia.
+
+3.6 kW = 3600W
+
+W=Pt => W=3600*12 =>W=43200 Wh = 43,2kWh
+
+Costo= (43,2 kWh) * ($0.10/kWh) = $4.32
+
+Calcule el costo anual de poner a funcionar todas las cargas.
+
+Costo diario: $9.6+$4.32=$13.92
+
+Costo Anual: $13.92*365dias=$5080.8
+
+53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh
+
+¿Cuánto costaría tostar toda la barra?
+
+1min 45s =0.024h
+
+W=Pt => W=1100*0.024 =>W=26,4 Wh = 0.0264kWh
+
+Costo por 2 rebanas= (0.0264kWh) * ($0.13/kWh) = $0.003432
+
+Costo por toda la barra= $0.003432 * 12 rebanas=$0.04
+
+55. La potencia de salida de un transformador con ɳ =97% es de 50 kW. ¿Cuál es la potencia de entrada?
+
+-Utilizamos las siguiente formula ɳ=(Wsal*100%)/Went
+
+-Despejar Went y reemplazar:
+
+-50kW=50000 W
+
+-Went = (Wsal*100%) / ɳ
+
+-Went = (50000*100%) / 97%
+
+-Went = 51546 W = 51,5 kW
+
+57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cuál es la eficiencia del dispositivo?
+
+-Se utilizará la siguiente formula Pent=Psal+Ppérdidas
+
+-Despejar Psal y reemplazar valores:
+
+ Psal=Pent-Ppérdidas=1100W-190W=910W
+
+-Se utilizara la formula de la eficiencia ɳ=(Wsal*100%)/Went
+
+-Reemplazamos
+
+ɳ=(910W*100%) / 1100W
+
+ɳ=82,72%
+
+59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
+
+-Calcular la P=V*I reemplazo
+
+P=120*15=1800W
+
+-Calcular Psal= ɳ * Pent = 0.89 * 1800 = 1602 W
+
+-Convertir a caballos de fuerza
+
+Psal = (1602 W) / (746 W/hp)
+
+Psal = 2.15 hp.
+
+61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónico y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?
+
+![image](https://user-images.githubusercontent.com/84390686/122011516-cd134700-cd81-11eb-814f-49d6068af424.png)
+
+-Calcular la P=V*I reemplazo
+
+P=48*180=8640W
+
+-Calcular ɳT=ɳ1*ɳ2
+
+ɳT=(0.95)*(0.8)=0.76
+
+-Calcular Psal= ɳ * Pent = 0.76 * 8640 = 6566.4 W
+
+-Convertir a caballos de fuerza
+
+Psal = (6566.4W) / (746 W/hp)
+
+Psal = 8.8 hp.
 
 
 4. VIDEO
