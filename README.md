@@ -16,9 +16,208 @@ Específicos
 2. MARCO TEÓRICO
 
 CAPÍTULO III  
+
+![image](https://user-images.githubusercontent.com/85137398/122002986-0f378b00-cd78-11eb-90c7-d5d992a1d6df.png)
+
 ![image](https://user-images.githubusercontent.com/84390820/121993554-47839d00-cd69-11eb-820f-75b81d48e470.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+EJERCICIOS CAPITULO III
+
+3-1 Resistencia de conductores
+
+1.	Determine la resistencia, a 20ºC, de 100 m de alambre de aluminio sólido que tiene los siguientes radios:
+
+Resolver esto aplicamos la fórmula: A = pid^2/4 y luego aplico la formula R=pl/A 
+
+a.	0.5 mm =  3.6 ohm
+
+b. 1.0 mm = 0.90 ohm
+
+c. 0.005 mm = 36 kohm
+
+d. 0.5 cm = 36 mohm
+
+3.	Una barra colectora de cobre sólido de 250 pies de longitud, que se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02 ohm a 20°C
+
+![image](https://user-images.githubusercontent.com/85137398/122003086-37bf8500-cd78-11eb-92b2-047f4c5fe83d.png)
+
+Como nos pide la altura despejamos A de la ecuación R=pl/A 
+
+A = pl/R
+
+Luego reemplazamos los valores
+
+A = 2x10^-3 * 250 / 0,25 
+
+A = 2 pulgadas
+
+5.	Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 ohm  a 20°C. ¿Cuánto mide el alambre en metros y en pies?
+
+En este ejercicio aplicamos la formula R=pl/A
+
+Obtenemos que el alambre que mide 300 m = 986 ft
+
+7.	Determine la resistividad (en ohm-metros) de un cilindro de grafito con base de carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0 ohm a 20°C. ¿Cómo se compara este valor con la resistividad que se reporta para el carbón?
+
+Aplicamos R=pl/A
+
+R = 3x10^-3*0.6 / 0.1963
+
+R = 9.1696 x 10^-3
+
+La resistividad es menor a la del carbono
+
+9. Una sección de 2 500 m de alambre de aleación tiene una resistencia de 32 ohm Si el alambre tiene un diámetro de 1.5 mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre?
+
+Primero calculamos el área transversal 
+
+A= pi d^2/4
+
+A= pi (1.5x10^-3)^2 / 4
+
+A= 1.7671x10^-6 m^2
+
+Ahora encontramos la resistividad despejamos p de la formula
+
+R=pl/A nos quedaría
+
+p=RA/l
+
+Reemplazo los valores en la ecuación
+
+p = 32 * 1.7671x10^-6 / 2500
+
+p = 2.261x10-8
+
+Y  concluimos que esta aleación no esta buena conductora como el cobre.
+
+3-2 Tabla de alambres eléctricos
+
+11. Utilice la tabla 3-2 para determinar la resistencia de 300 pies de conductores de cobre sólido AWG 22 y AWG 19. Compare los diámetros y resistencias de los alambres.
+
+ Calculamos con la formula R = Resistencia / distancia
+
+AWG 22 
+
+R= 16.2/1000*300
+
+R= 4.86 ohm
+
+AWG 19
+
+R= 8.05 /1000* 300
+
+R = 2.42 ohm 
+
+El diámetro de AWG 19 es más grande que el diámetro de AWG 22 y la resistencia es igual en los dos.
+
+13. Determine la máxima corriente que puede conducir un alambre AWG 19 y uno AWG 30.
+
+Aplicamos las formulas y realizamos los cálculos llegamos a que
+
+AWG 19 puede llegar a medir 4A.
+
+AWG 30 puede llegar a medir 0.30A. 
+
+15. Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 ohm a una temperatura de 20°C. ¿Cuánto mide el alambre en metros?
+
+Aplicamos la fórmula:
+
+l= RA/p
+
+Remplazamos datos 
+
+l = 550 * 25.0 / 415
+
+l = 33.13 metros
+
+3-3 Resistencia de alambres: milésima circular
+
+17. Determine el área en milésimas circulares de los siguientes conductores (T = 20°C):
+
+Los valores los multiplicamos por la milésima/ pulgada y de ahí elevamos al cuadrado y asi obtenemos el resultado 
+
+a.	Alambre circular con un diámetro de 0.016 pulgadas =  256 CM
+
+b.	Alambre circular con un diámetro de 2.0 mm = 6200 CM
+
+c.	Barra colectora rectangular de 0.25 _ 6.0 pulgadas = 1910 MCM
+
+19. Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
+
+a.	Alambre circular con un diámetro de 0.016 pulgadas =  16.2 ohm
+
+b.	Alambre circular con un diámetro de 2.0 mm = 0.668 ohm
+
+c.	Barra colectora rectangular de 0.25 _ 6.0 pulgadas = 2.17x10^-3 ohm
+
+21. Un alambre de cobre solido de 200 pies tiene una resistencia de 0.500 ohm.
+
+Aplicamos la fórmula de A milésima cuadrada para obtener el resultado y de ahí obtenemos el diámetro.
+
+a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
+
+4148 MC = 3260 milésima cuadrada.
+
+b.	Determine el diámetro del alambre en milésimas y en pulgadas.
+
+0.0644 pulgadas
+
+23. Un carrete de alambre de cobre solido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 _ (a una temperatura de 20°C).
+
+a.	Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
+
+1600 MC = 1260 milesima cuadrada
+
+b.	Calcule la longitud del alambre en pies.
+
+1930 pies
+
+3-4 Efectos de temperatura
+
+25. Un conductor de aluminio tiene una resistencia de 50 ohm a temperatura ambiente.Encuentre la resistencia para el mismo conductor a - 30°C, 0°C y a 200°C.
+
+R-30 = (-30-(-236))/(20-(-236))*50
+
+R-30 = 40.2 ohm
+
+R0 = (0-(-236))/(20-(-236))*50
+
+R0 = 41.6 ohm
+
+R200= (200-(-236))/(20-(-236))*50
+
+R200= 82.5 ohm
+
+27. Cierto material tiene una resistencia de 20 ohm a temperatura ambiente (20°C) y 25 ohm a una temperatura de 85°C.
+
+a.	¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
+
+Coeficiente positivo porque está a temperatura ambiente 
+
+b.	Determine al valor del coeficiente de temperatura, a, a 20°C.
+
+0.00385 grados C ^-1
+
+c.	Suponga que la funcion de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a 100°C (el punto de ebullicion del agua).
+
+R0 = 18.5 ohm
+
+R100 = 26.2 ohm
+
+29. Un calentador eléctrico esta hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohm a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
+
+R260 = (260-(-2270))/(20-(-2270))*15.2
+
+R260 = 16.79 ohm
+
+31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohm a una temperatura de -20°C y de 190 ohm a 120 ° C.
+
+a.	Determine la intercepción de temperatura del material.
+
+T = -260 °C
 
 *3-5 Tipos de resistores*
 
@@ -105,3 +304,13 @@ d. 12.5 Mohm = 800 microsiems [µs]
 45) Determine la conductancia de 1000 m de alambre de cobre sólido AWG 30 a una temperatura de 20°C.
 
 C = 1.005 x 10^-3 = 1 milisiemens [ms]
+
+4. VIDEO
+
+5. CONCLUSIONES
+
+6. BIBLIOGRAFIA
+
+Electrónica.L.  (2019). Resistor – Resistencia Eléctrica. 14/06/2021. From https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/resistor/ 
+
+
