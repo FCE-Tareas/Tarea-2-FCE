@@ -21,6 +21,12 @@ CAPÍTULO III
 
 ![image](https://user-images.githubusercontent.com/84390820/121993554-47839d00-cd69-11eb-820f-75b81d48e470.png)
 
+CAPÍTULO IV
+
+![image](https://user-images.githubusercontent.com/85209614/122008903-28900580-cd7f-11eb-8fa9-06b24b508903.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122008977-3ba2d580-cd7f-11eb-9f19-abf4ce70a112.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPITULO III
