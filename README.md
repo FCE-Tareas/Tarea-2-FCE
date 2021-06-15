@@ -17,7 +17,8 @@ Específicos
 
 CAPÍTULO III  
 
-![image](https://user-images.githubusercontent.com/85137398/122002986-0f378b00-cd78-11eb-90c7-d5d992a1d6df.png)
+![image](https://user-images.githubusercontent.com/85137398/122003837-38a4e680-cd79-11eb-8a4d-ed55ce2354d0.png)
+
 
 ![image](https://user-images.githubusercontent.com/84390820/121993554-47839d00-cd69-11eb-820f-75b81d48e470.png)
 
