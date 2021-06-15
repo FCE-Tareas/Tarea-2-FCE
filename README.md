@@ -311,6 +311,132 @@ d. 12.5 Mohm = 800 microsiems [µs]
 
 C = 1.005 x 10^-3 = 1 milisiemens [ms]
 
+EJERCICIOS CAPITULO IV
+
+1.	Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
+ 
+
+a.	E = 40 V, R = 20 Ω
+
+2 A
+
+b.	E = 35 mV, R = 5 mΩ
+
+7.0 A
+
+c.	V = 200 V, R = 40 kΩ
+
+5 mA
+
+d.	E = 10 V, R = 2.5 MΩ
+
+4 µA
+
+e.	E = 7.5 V, R = 2.5 x 10^3Ω
+
+3 mA
+
+f.	V = 12 kV, R = 2 MΩ
+
+6	mA
+
+3.	Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
+
+a.	1 mA, 40 kΩ
+
+40 V
+
+b.	10 µA, 30 kΩ
+
+0.3 V
+
+c.	10 mA, 4 x 10^4Ω
+
+400 V
+
+d.	12 A, 3 x 10^-2Ω
+
+0.36 V
+5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
+
+96 Ω
+7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA? 
+
+28 V
+
+9. En la figura 4-33, si E 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.
+
+6 A
+
+11. La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?
+
+Rojo, Rojo, Rojo
+
+13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
+
+22 V
+
+15. Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cuál es la corriente 
+
+a. a 20°C? 
+
+2.31 A
+
+b. a 40°C?
+
+2.14 A
+
+17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?
+
+2.88 V
+
+19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?
+ 
+4Ω
+
+21. En un circuito resistivo, E = 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
+
+400 V
+
+23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
+
+3.78 mA
+
+25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+ 
+a.	+ 45V –
+
+b.	4 A (→)
+
+c.	– 90 V +
+
+d.	7 A (←)
+
+27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
+
+3.19 J/s ; 3.19 W
+
+29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
+
+36 W
+
+31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente requiere?
+
+14.1 A
+
+33. ¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
+
+47.5 V
+
+35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
+
+50 V, 5mA
+
+37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
+
+37.9 A
+
+
 4. VIDEO
 
 5. CONCLUSIONES
