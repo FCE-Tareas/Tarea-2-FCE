@@ -670,7 +670,13 @@ Psal = 8.8 hp.
 
 4. VIDEO
 
+https://youtu.be/Bmtr8mcyouI
+
 5. CONCLUSIONES
+
+* En el análisis de circuios cuando los resistores están conectados en serie el voltaje se divide o la división de tensión se distribuye dependiendo del valor de cada resistencia y a corriente es la misma para todos los resistores.
+
+* Una pobre eficiencia da como resultado desperdicio de energía y costos más altos. Por lo general, La eficiencia de los equipos y máquinas varía mucho, asi como los transformadores de potencia grandes tienen eficiencias de 98% o  mejores, mientras que muchos amplificadores electrónicos tienen eficiencias menores a 50%, ademas que la eficiencia siempre será menor que 100%.
 
 6. BIBLIOGRAFIA
 
